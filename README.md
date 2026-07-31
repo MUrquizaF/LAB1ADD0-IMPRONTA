@@ -3,7 +3,7 @@
 ---
 title: Diagrama MER Lógico - MercadoDigital SV
 ---
-erDiagram
+erDiagram > no se algo
 
     INTEGRANTES {
         string Fabricio_Abrego_Quijada
@@ -146,3 +146,5 @@ erDiagram
     PEDIDO       ||--o{ HISTORIAL_ESTADO  : "registra cambios en"
 
     PEDIDO       ||--|| DTE               : "genera"
+
+    
