@@ -3,10 +3,6 @@
 ---
 title: Diagrama MER Lógico - MercadoDigital SV
 ---
-
-erDiagram
-
-=======
 erDiagram
 
     INTEGRANTES {
