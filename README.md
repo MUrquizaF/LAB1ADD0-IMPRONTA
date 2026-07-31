@@ -3,7 +3,7 @@
 ---
 title: Diagrama MER Lógico - MercadoDigital SV
 ---
-erDiagram > prueba commit
+erDiagram
 
     INTEGRANTES {
         string Fabricio_Abrego_Quijada
