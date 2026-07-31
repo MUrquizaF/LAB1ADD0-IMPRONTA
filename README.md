@@ -4,7 +4,7 @@
 title: Diagrama MER Lógico - MercadoDigital SV
 ---
 <<<<<<< HEAD
-erDiagram > no se algo
+erDiagram
 
 =======
 erDiagram
