@@ -4,7 +4,7 @@
 title: Diagrama MER Lógico - MercadoDigital SV
 ---
 erDiagram
-
+> queres gaseosa????
     INTEGRANTES {
         string Fabricio_Abrego_Quijada
         string Gerardo_Chavez_Guillen
