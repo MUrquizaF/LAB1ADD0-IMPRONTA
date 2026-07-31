@@ -3,12 +3,12 @@
 ---
 title: Diagrama MER Lógico - MercadoDigital SV
 ---
-<<<<<<< HEAD
+
 erDiagram
 
 =======
 erDiagram
->>>>>>> f82ec133df869068585dae5009947a0b3a3501b5
+
     INTEGRANTES {
         string Fabricio_Abrego_Quijada
         string Gerardo_Chavez_Guillen
